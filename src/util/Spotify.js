@@ -1,6 +1,6 @@
 let accessToken;
 const clientId = '5f6e29f278994204930ec547a3af6418';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'https://tiny-dragon-32a1f1.netlify.app';
 
 const Spotify = {
   getAccessToken() {
